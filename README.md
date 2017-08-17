@@ -8,6 +8,18 @@ A curated list for awesome OpenStack links!
 
 ## Table of Contents
 
+<!-- TOC depthFrom:2 depthTo:4 -->
+
+- [Table of Contents](#table-of-contents)
+- [What is OpenStack?](#what-is-openstack)
+- [Try OpenStack](#try-openstack)
+- [Learn about OpenStack](#learn-about-openstack)
+- [Deploy OpenStack](#deploy-openstack)
+- [Contribute to OpenStack](#contribute-to-openstack)
+- [Projects](#projects)
+
+<!-- /TOC -->
+
 ## What is OpenStack?
 
 ![OpenStack overview](https://www.openstack.org/software/images/diagram/overview-diagram.svg)
@@ -28,3 +40,28 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 1. [OpenStack User Stories](https://www.openstack.org/user-stories/)
 1. [OpenStack Summit Videos](https://www.openstack.org/videos/)
 1. [Books](http://docs.openstack.org/ops/)
+
+## Deploy OpenStack
+
+1. [Manual Step-by-step guides](https://docs.openstack.org/ocata/install/)
+1. Deploy OpenStack with Kolla-ansible
+    - [Documentation](https://docs.openstack.org/developer/kolla-ansible/quickstart.html)
+    - [Kolla deployment guide](https://docs.openstack.org/project-deploy-guide/kolla-ansible/ocata/)
+1. Deploy OpenStack with Packstack 
+    - [RHEL deploy guide](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/2/html/Getting_Started_Guide/part-Deploying_OS_using_PackStack.html)
+    - [Platform9 - How to install OpenStack using RDO Packstack](https://platform9.com/blog/install-openstack-using-rdo-packstack/)
+1. Deploy OpenStack-on-OpenStack(TripleO)
+    - [Documentation](https://docs.openstack.org/tripleo-docs/latest/install/)
+    - [Platform9 - How to install OpenStack using TripleO](https://platform9.com/blog/install-openstack-using-tripleo/)
+    - [Mirantis blog - As Container rise, OpenStack TripleO slides](https://www.mirantis.com/blog/containers-rise-openstack-tripleo-slides/)
+1. Deploy OpenStack with Openstack-ansible
+    - [Documenation](https://docs.openstack.org/openstack-ansible/latest/)
+    - [Openstack-ansible deployment guide](https://docs.openstack.org/project-deploy-guide/openstack-ansible/ocata/)
+1. Deploy OpenStack with scripts
+    - [Vietstacker(Vietnam OpenStack Community) OpenStack-Ocata-Scripts](https://github.com/vietstacker/OpenStack-Ocata-Scripts)
+    - [Tigerlinux - Openstack-ocata-installer-ubuntu1604lts](https://github.com/tigerlinux/openstack-ocata-installer-ubuntu1604ts)
+    - [Tigerlinux - Openstack-ocata-installer-centos7](https://github.com/tigerlinux/openstack-ocata-installer-centos7)
+
+## Contribute to OpenStack
+
+## Projects
