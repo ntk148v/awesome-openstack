@@ -104,6 +104,7 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 | ---------------------- | ---------------------------- |
 | Horizon                | Dashboard                    |
 | Openstack client (CLI) | Command-line client          |
+| Rally                  | Benchmark service            |
 | Senlin                 | Clustering service           |
 | Vitrage                | Root Cause Analytics service |
 | Watcher                | Optimization service         |
