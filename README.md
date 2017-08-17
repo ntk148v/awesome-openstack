@@ -16,7 +16,7 @@ A curated list for awesome OpenStack links!
 - [Learn about OpenStack](#learn-about-openstack)
 - [Deploy OpenStack](#deploy-openstack)
 - [Contribute to OpenStack](#contribute-to-openstack)
-- [Projects](#projects)
+- [Project Navigator](#project-navigator)
 
 <!-- /TOC -->
 
@@ -64,4 +64,61 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 
 ## Contribute to OpenStack
 
-## Projects
+## Project Navigator
+
+| Compute  |                                             |
+| -------- | ------------------------------------------- |
+| Nova     | Compute Service                             |
+| Glance   | Image Service                               |
+| Ironic   | Bare Metal Provisioning Service             |
+| Storlets | Computable Object Store                     |
+| Zun      | Container Management Service                |
+| Magnum   | Container Orchestration Engine Provisioning |
+
+| Storage, Backup & Recovery |                                          |
+| -------------------------- | ---------------------------------------- |
+| Swift                      | Object Storage                           |
+| Cinder                     | Block Storage                            |
+| Manila                     | Shared Filesystems                       |
+| Karbor                     | Application Data Protection as a Service |
+| Freezer                    | Backup, Restore, and Disaster Recovery   |
+
+| Networking & Content Delivery |                                                    |
+| ----------------------------- | -------------------------------------------------- |
+| Neutron                       | Networking                                         |
+| Designate                     | DNS Service                                        |
+| Dragonflow                    | Neutron Plugin                                     |
+| Ocatvia                       | Load Balancer                                      |
+| Kuryr                         | Container Plugin                                   |
+| Tacker                        | NFV Orchestration                                  |
+| Tricircle                     | Networking Automation for Multi-Region Deployments |
+
+| Security, Identity & Compliance |                  |
+| ------------------------------- | ---------------- |
+| Keystone                        | Identity service |
+| Barbican                        | Key Management   |
+| Congress                        | Goverance        |
+| Mistral                         | Workflow service |
+
+| Management Tools       |                              |
+| ---------------------- | ---------------------------- |
+| Horizon                | Dashboard                    |
+| Openstack client (CLI) | Command-line client          |
+| Senlin                 | Clustering service           |
+| Vitrage                | Root Cause Analytics service |
+| Watcher                | Optimization service         |
+
+| Deployment Tools  |                                 |
+| ----------------- | ------------------------------- |
+| Chef OpenStack    | Chef cookbooks for OpenStack    |
+| OpenStack Charms  | Juju Charms for OpenStack       |
+| OpenStack-ansible | Ansible Playbooks for OpenStack |
+| Puppet Openstack  | Puppet modules for OpenStack    |
+| TripleO           | Deployment service              |
+
+| Application services |                                            |
+| -------------------- | ------------------------------------------ |
+| Heat                 | Orchestration                              |
+| Zaqar                | Messaging Service                          |
+| Murano               | Application Catalog                        |
+| Solum                | Software Developement Lifecycle Automation |
