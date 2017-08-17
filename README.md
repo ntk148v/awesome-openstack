@@ -17,6 +17,18 @@ A curated list for awesome OpenStack links!
 - [Deploy OpenStack](#deploy-openstack)
 - [Contribute to OpenStack](#contribute-to-openstack)
 - [Project Navigator](#project-navigator)
+- [Projects](#projects)
+    - [Nova](#nova)
+    - [Neutron](#neutron)
+    - [Glance](#glance)
+    - [Swift](#swift)
+    - [Heat](#heat)
+    - [Cinder](#cinder)
+    - [Keystone](#keystone)
+    - [Kuryr](#kuryr)
+    - [Zun](#zun)
+    - [Kolla](#kolla)
+    - [Horizon](#horizon)
 
 <!-- /TOC -->
 
@@ -63,6 +75,9 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
     - [Tigerlinux - Openstack-ocata-installer-centos7](https://github.com/tigerlinux/openstack-ocata-installer-centos7)
 
 ## Contribute to OpenStack
+
+1. [OpenStack Documentation Contributor Guide](https://docs.openstack.org/contributor-guide/)
+1. [OpenStack Developer's Guide](https://docs.openstack.org/infra/manual/developers.html)
 
 ## Project Navigator
 
@@ -123,3 +138,27 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 | Zaqar                | Messaging Service                          |
 | Murano               | Application Catalog                        |
 | Solum                | Software Developement Lifecycle Automation |
+
+## Projects
+
+### Nova
+
+### Neutron
+
+### Glance
+
+### Swift
+
+### Heat
+
+### Cinder
+
+### Keystone
+
+### Kuryr
+
+### Zun
+
+### Kolla
+
+### Horizon
