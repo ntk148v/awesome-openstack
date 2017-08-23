@@ -104,7 +104,7 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 | Designate                     | DNS Service                                        |
 | Dragonflow                    | Neutron Plugin                                     |
 | Ocatvia                       | Load Balancer                                      |
-| Kuryr                         | Container Plugin                                   |
+| [Kuryr](### Kuryr)            | Container Plugin                                   |
 | Tacker                        | NFV Orchestration                                  |
 | Tricircle                     | Networking Automation for Multi-Region Deployments |
 
@@ -156,6 +156,9 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 ### Keystone
 
 ### Kuryr
+
+1. [Official Documentation](https://docs.openstack.org/kuryr/latest/)
+1. [Gal Sagie Bog](http://galsagie.github.io/tags/#Kuryr)
 
 ### Zun
 
