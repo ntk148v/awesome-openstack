@@ -104,7 +104,7 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 | Designate                     | DNS Service                                        |
 | Dragonflow                    | Neutron Plugin                                     |
 | Ocatvia                       | Load Balancer                                      |
-| [Kuryr](### Kuryr)            | Container Plugin                                   |
+| [Kuryr](###Kuryr)            | Container Plugin                                   |
 | Tacker                        | NFV Orchestration                                  |
 | Tricircle                     | Networking Automation for Multi-Region Deployments |
 
