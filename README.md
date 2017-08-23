@@ -81,14 +81,14 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 
 ## Project Navigator
 
-| Compute  |                                             |
-| -------- | ------------------------------------------- |
-| Nova     | Compute Service                             |
-| Glance   | Image Service                               |
-| Ironic   | Bare Metal Provisioning Service             |
-| Storlets | Computable Object Store                     |
-| Zun      | Container Management Service                |
-| Magnum   | Container Orchestration Engine Provisioning |
+| Compute     |                                             |
+| ----------- | ------------------------------------------- |
+| Nova        | Compute Service                             |
+| Glance      | Image Service                               |
+| Ironic      | Bare Metal Provisioning Service             |
+| Storlets    | Computable Object Store                     |
+| [Zun](#zun) | Container Management Service                |
+| Magnum      | Container Orchestration Engine Provisioning |
 
 | Storage, Backup & Recovery |                                          |
 | -------------------------- | ---------------------------------------- |
@@ -104,7 +104,7 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 | Designate                     | DNS Service                                        |
 | Dragonflow                    | Neutron Plugin                                     |
 | Ocatvia                       | Load Balancer                                      |
-| [Kuryr](#kuryr)            | Container Plugin                                   |
+| [Kuryr](#kuryr)               | Container Plugin                                   |
 | Tacker                        | NFV Orchestration                                  |
 | Tricircle                     | Networking Automation for Multi-Region Deployments |
 
@@ -161,6 +161,10 @@ More details at [OpenStack homepage](https://www.openstack.org/software/)
 1. [Gal Sagie Bog](http://galsagie.github.io/tags/#Kuryr)
 
 ### Zun
+
+1. [Official Documentation](https://docs.openstack.org/zun/latest/)
+1. [Magnum is Not the OpenStack Containers Service? How about Zun?](https://youtu.be/Go8_G3iLyl4)
+1. [Wiki OpenStack](https://wiki.openstack.org/wiki/Zun)
 
 ### Kolla
 
